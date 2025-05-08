@@ -43,8 +43,8 @@ else:
     destination_path = os.path.join(parent_dir, 'moloco')  # 出力先フォルダのパス
 
 # 認証情報
-email = 'suzuki@f-ing.co.jp'  # ログイン用のメールアドレス
-password = 'kokosu564sb_FG'  # ログイン用のパスワード
+email = '○○'  # ログイン用のメールアドレス
+password = '○○'  # ログイン用のパスワード
 
 
 # 今日の日付を取得
